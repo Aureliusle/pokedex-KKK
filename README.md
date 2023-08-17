@@ -7,10 +7,6 @@
 
   <p align="center">
     A very cool web to find Pokemons and them stats
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Pokedex</a>
   </p>
 </div>
@@ -27,7 +23,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -39,16 +34,15 @@
 ## About Our project
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great Pokedex websites on the internet; however, it is hard to find one that is easy and straightforward to use. We want to create a Pokedex web so  easy to use that it'll be the last one you ever need to look at to find basic information on Pokemon
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's why Our Pokedex is better than others:
+* We built it from scratch
+* spent countless days and hours
+* easy to use and navigate
+  
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Of course, this is not a simple task to complete
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,24 +61,11 @@ These are the things we used to produce this website
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+##Contact us 
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Aurelius Jon Lee - 211431@hchs.edu.my
-Aaron Khaw Yu Sheng - 211084@hchs.edu.my
-Your Name - 211083@hchs.edu.my
+Aurelius Jon Lee - 211431@hchs.edu.my 
+Aaron Khaw Yu Sheng - 211084@hchs.edu.my 
+Ryan Chow - 211083@hchs.edu.my
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
