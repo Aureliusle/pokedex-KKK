@@ -64,10 +64,7 @@ This app is made by 3 super retards
 * JavaScript
 * PokeApi
 * Chatgpt
-* CUM
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
