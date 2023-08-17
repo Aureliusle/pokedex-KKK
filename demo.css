@@ -1,0 +1,93 @@
+/* styles.css */
+@font-face {
+  font-family: "Nothing font";
+  src: url(nothing-font-5x7-webfont.woff) format("woff");
+}
+
+body {
+  font-family: "Nothing font";
+  color: white;
+  background-color: rgb(42,42,42);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+  color:white;
+  text-align: center;
+}
+
+main {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rbg(42,42,42);
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#search-input {
+  padding: 10px;
+  font-size: 1em;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+}
+
+#search-button {
+  padding: 10px 20px;
+  background-color: rgb(42, 42, 42);
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  border-style: dotted;
+}
+
+
+.pokemon-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  border: solid rgb(42,42,42);
+  font-size: 16px;
+  max-width: 400px;
+  cursor: pointer;
+  background-color: rgb(42,42,42);
+}
+.image-container {
+    text-align: center;
+}
+
+
+.pokemon-icon > img {
+  background-color: rgb(42,42,42);
+}
+.pokemon-card{
+  text-align: center;
+}
+.pokemon-card h2 {
+  font-size : 150%;
+  text-align: center;
+}
+
+.pokemon-card p {
+  font-size : 100%;
+  text-align: left;
+  margin-left: 5px;
+}
+
+#pokemon-list-container {
+  margin: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+}
