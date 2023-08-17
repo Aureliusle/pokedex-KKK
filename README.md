@@ -7,7 +7,6 @@
 
   <p align="center">
     A very cool web to find Pokemons and them stats
-    <a href="https://github.com/othneildrew/Best-README-Template">View Pokedex</a>
   </p>
 </div>
 
