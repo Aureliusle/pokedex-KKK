@@ -44,8 +44,6 @@ Here's why Our Pokedex is better than others:
 
 Of course, this is not a simple task to complete
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -58,7 +56,6 @@ These are the things we used to produce this website
 * PokeApi
 * Chatgpt
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ##Contact us 
@@ -69,7 +66,6 @@ Ryan Chow - 211083@hchs.edu.my
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -81,5 +77,5 @@ Use this space to list resources you find helpful and would like to give credit 
 * [source for pokemon][(https://pokeapi.co/)]
 * [for pokemon references] (https://www.pokemon.com/us/pokedex)
   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
