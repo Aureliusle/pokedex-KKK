@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="kkk.png" alt="Logo" width="80" height="80">
+    <img src="kk.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">POKEDEX</h3>
