@@ -8,6 +8,9 @@
   <p align="center">
     A very cool web to find Pokemons and them stats
   </p>
+  <p align= "center">
+    <a href="https://iggliaocompany.aurelius-jon-le.repl.co"> Pokedex </a>
+  </p>
 </div>
 
 
