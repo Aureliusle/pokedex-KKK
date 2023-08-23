@@ -9,7 +9,7 @@
     A very cool web to find Pokemons and them stats
   </p>
   <p align= "center">
-    <a href="https://iggliaocompany.aurelius-jon-le.repl.co"> Pokedex </a>
+    <a href="https://pokedex.aurelius-jon-le.repl.co"> Pokedex </a>
   </p>
 </div>
 
@@ -66,7 +66,7 @@ Aurelius Jon Lee - 211431@hchs.edu.my
 Aaron Khaw Yu Sheng - 211084@hchs.edu.my 
 Ryan Chow - 211083@hchs.edu.my
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link:https://pokedex.aurelius-jon-le.repl.co
 
 
 
