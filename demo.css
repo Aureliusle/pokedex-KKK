@@ -23,7 +23,7 @@ main {
   max-width: 1600px;
   margin: 0 auto;
   padding: 0;
-  background-color: rbg(42,42,42);
+  background-color: rgb(42, 42, 42);
 }
 
 .search-container {
@@ -42,38 +42,35 @@ main {
   border-radius: 30px;
 }
 
-#search-button {
-  padding: 10px 20px;
-  background-color: rgb(42, 42, 42);
-  color: #fff;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  border-style: dotted;
-}
-
-
 .pokemon-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: left;
-  border: solid rgb(42,42,42);
+  border: solid rgb(42, 42, 42);
   font-size: 16px;
   max-width: 400px;
+  min-width: 150px;
   cursor: pointer;
-  background-color: rgb(42,42,42);
+  background-color: rgb(42, 42, 42);
+  overflow: auto;
+  max-height: 750px;
+  height: auto;
+  align-content: flex-start;
 }
+
 .image-container {
     text-align: center;
 }
 
 
 .pokemon-icon > img {
-  background-color: rgb(42,42,42);
+  background-color: rgb(42, 42, 42);
+  width: 120px
 }
 .pokemon-card{
-  text-align: center;
+  text-align: left;
+  height: 400px;
 }
 .pokemon-card h2 {
   font-size : 150%;
@@ -84,10 +81,29 @@ main {
   font-size : 100%;
   text-align: left;
   margin-left: 5px;
+  margin-bottom: 10px;
+  word-spacing: 5px;
 }
 
 #pokemon-list-container {
   margin: 0;
   display: grid;
   grid-template-columns: auto auto;
+}
+
+#pokemon-container {
+  justify-content: left;
+  max-height: 1000px;
+  flex-wrap: wrap;
+}
+#pokemon-container img {
+  width: 400px;
+}
+
+#pokemon-image {
+  width: 20px;
+}
+.img-container {
+  align-items: left;
+  height: 400px;
 }
