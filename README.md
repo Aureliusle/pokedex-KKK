@@ -11,6 +11,9 @@
   <p align= "center">
     <a href="https://pokedex.aurelius-jon-le.repl.co"> Pokedex </a>
   </p>
+  <p align="center">
+    <a href="https://docs.google.com/presentation/d/1zExvwnyKLzzfl26gZDv668ZjNko1CjzluPp2xFHdQPo/edit?usp=sharing"> This is our presentation link</a>
+  </p>
 </div>
 
 
@@ -74,7 +77,7 @@ Project Link:https://pokedex.aurelius-jon-le.repl.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+These are the things we used to source and refer the Pokemons 
 
 * [source for pokemon][(https://pokeapi.co/)]
 * [for pokemon references] (https://www.pokemon.com/us/pokedex)
