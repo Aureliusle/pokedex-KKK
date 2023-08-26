@@ -81,6 +81,7 @@ These are the things we used to source and refer the Pokemons
 
 * [source for pokemon][(https://pokeapi.co/)]
 * [for pokemon references] (https://www.pokemon.com/us/pokedex)
+* [for website references and youtube help] (https://youtu.be/T-VQUKeSU1w?si=tY4kpK8tWdN3TBO1)
   
 
 
