@@ -3,7 +3,7 @@
 ## v1.0.0
 
 ### Added or Changed
-- nothing yet
+- nothing yet but will have some bug repairs shortly
 
 ### Removed
 
